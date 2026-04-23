@@ -1,1 +1,11 @@
-# repo-template
+
+  # Responsive Educational Website Design
+
+  This is a code bundle for Responsive Educational Website Design. The original project is available at https://www.figma.com/design/7vHMQVCK8k8wsONQsWtuVh/Responsive-Educational-Website-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
